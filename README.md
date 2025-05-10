@@ -27,7 +27,7 @@ Cooking Buddy is a friendly AI assistant that helps you decide what to make base
 - Produces **a visual dish preview** using generative image models  
 - Allows **PDF export** of recipes for offline use
 
-## 📸 How It Looks
+## How It Looks
 
 **Start Screen**  
 <div align="center">  
@@ -54,7 +54,7 @@ Cooking Buddy is a friendly AI assistant that helps you decide what to make base
 <img src="https://github.com/user-attachments/assets/d47943c7-4ad6-4b81-b2bb-5f2eaf07a4af" width="600"/>
 </div>
 
-## 🧠 What I learned:
+## What I learned:
 This was a self-initiated learning project, driven by curiosity and a desire to explore GenAI in practice. I researched and experimented with every part of the stack independently, diving deep into each model's capabilities and limitations. I learned how to move from idea to working prototype, building a real solution to a real problem in my daily life.
 - Designed a multi-stage pipeline using LLMs for natural input cleaning, idea generation, filtering, formatting, and for a seamless multi-modal UX
 - Handled natural language input variability, user intent, and dietary logic
