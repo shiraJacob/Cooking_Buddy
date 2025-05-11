@@ -3,6 +3,8 @@
 I built this project to solve one of the most common daily struggles I face — figuring out what to cook with whatever ingredients I have in my kitchen.
 Cooking Buddy is a friendly AI assistant that helps you decide what to make based on your available ingredients and dietary needs. You can either type or speak your input naturally (just like talking to a friend!), and the bot will suggest fun, creative meals tailored to what you have — no fancy stuff, just what's in your pantry and fridge. You can even get a dish image and save everything as a PDF for later.
 
+📹 A short [example video](Cooking_Buddy_short_video.mp4) demonstrates the full flow: recording ingredients and restrictions, generating a dish image, getting a full recipe response, and exporting to PDF.
+
 ## Models Used  
 - **GPT-4o-mini (x4)**: Used in a multi-step pipeline:
   1. Extract structured ingredients and diet preferences from casual speech/text  
